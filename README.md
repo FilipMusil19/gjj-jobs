@@ -1,16 +1,17 @@
-# maturitagjjj
+# GJJ Jobs
 
-A new Flutter project.
+Mobilní aplikace pro studenty Gymnázia Josefa Jungmanna, která slouží k vyhledávání a zadávání brigád.
 
-## Getting Started
+## Technologie
+- Flutter
+- Firebase Authentication
+- Firestore (reálná synchronizace dat)
 
-This project is a starting point for a Flutter application.
+## Funkce
+- Registrace a přihlášení uživatele
+- Přidávání a správa brigád
+- Reálný chat mezi uživateli
+- Moderní design (Material Design)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Autor
+Filip Musil
