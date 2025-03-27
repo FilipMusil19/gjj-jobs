@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421116596215",
+    "project_id": "maturitagjjj",
+    "storage_bucket": "maturitagjjj.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421116596215:android:60a4afdc5a7e25f0b4e8f2",
+        "android_client_info": {
+          "package_name": "com.example.maturitagjjj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyoxCyRTqMaTYD5UCzB5hHJ_L8B1wTu-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
